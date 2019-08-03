@@ -55,9 +55,9 @@ Testcase:
 
 Testcase:
 
-'sentence' starting with the given 'prefix'.<br>Prefix String: 'con'<br>Sentence: 'continous constraints cause fatigue'<br>Output: {continous, constraints}
+'sentence' starting with the given 'prefix'.<br>Prefix String: 'con'<br>Sentence: 'continuous constraints cause fatigue'<br>Output: {continuous, constraints}
 
-**Q3.** It was a really complicatedly structured question, so I am not able to recall it. Me and some of my friends who faced this Q had the same opinion.
+**Q3.** It was a really complicated structured question, so I am not able to recall it. Me and some of my friends who faced this Q had the same opinion.
 
 
 I solved (2/3) Questions of these round.
@@ -81,7 +81,7 @@ After a short break and company presentation, the results for the Group Fly roun
 
 In each of the interviews, the first question is to introduce yourself. My answer started from what I'm currently pursuing and where I hail from. Then I talked about my school life and how I developed my passion for Technology. I cleverly slipped a few of my major achievements while narrating :p<br>
 
-We were required to write down the code snippets for each coding question. Be smart while making your Resume. Do not mention something if you have only a surface level knowledge about it.
+We were required to write the code snippets for each coding question. Be smart while making your Resume. Do not mention something if you have only a surface level knowledge about it.
 
 
 It is true that luck is a factor, but your Resume and your conversation may turn the tides in your favour. Be honest to the interviewer. Admit it and ask for help if you don't know or if you already know something. They are mostly friendly and helpful. Be confident and humble at the same time. An interviewer may ask the same questions to different candidates ;-)
@@ -129,7 +129,7 @@ After which I was allowed to go.
 ---------------------------------------
 **Technical Interview 3**
 
-After waiting for another hour. Finally :D, I was called for the next round. This interviewer was the most friendly. He greeted me and asked me to relax as he was not going to ask any technical questions. That was a sigh of relief. He was a very observant person. He looked at the projects I've worked on. Asked Qs related to how am I as a person to how was Sentiment Analysis was done on the tweet. It was a cool experience with all the interviewers, but interacting with this person was much more fun. We had some witty conversation too.
+After waiting for another hour. Finally :D, I was called for the next round. This interviewer was the most friendly. He greeted me and asked me to relax as he was not going to ask any technical questions. That was a sigh of relief. He was a very observant person. He looked at the projects I've worked on. He asked Qs related to how am I as a person to how was Sentiment Analysis done on the tweet. It was a cool experience with all the interviewers, but interacting with this person was much more fun. We had some witty conversation too.
 
 ---------------------------------------
 
@@ -147,7 +147,7 @@ Also to my seniors who helped me and clarified my doubts
 Lastly nothing would have been possible without my parents and my brother. My brother has been the evergreen source of inspiration and no words can express how grateful I am for my parents.
 
 ---------------------------------------
-Eight of us finally made it through. We will be given an opportunity to intern at Microsft Development Center next Summers and maybe more :D
+Eight of us finally made it through. We will be given an opportunity to intern at Microsoft Development Center next Summers and maybe more :D
 
 This is my first blog entry :D<br><br>
 *More Queries? Feel free to contact*
