@@ -51,11 +51,11 @@ Testcase:
 
 2. n = 4. {bite, kick, jump, kamehameha}<br> Actual moves: "fightplaykickjumpirontrekbitepunchkamehamehajumpkickbitespiritbomb"<br>Output:True
 
-**Q2.** Given a 'prefix string' and a 'sentence'. Print all words in the 
+**Q2.** Given a 'prefix string' and a 'sentence'. Print all words in the 'sentence' starting with the given 'prefix'.<br>
 
 Testcase:
 
-'sentence' starting with the given 'prefix'.<br>Prefix String: 'con'<br>Sentence: 'continuous constraints cause fatigue'<br>Output: {continuous, constraints}
+Prefix String: 'con'<br>Sentence: 'continuous constraints cause fatigue'<br>Output: {continuous, constraints}
 
 **Q3.** It was a really complicated structured question, so I am not able to recall it. Me and some of my friends who faced this Q had the same opinion.
 
