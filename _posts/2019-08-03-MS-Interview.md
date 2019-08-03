@@ -77,7 +77,7 @@ Even though the problem seemed easy, candidates did make mistakes under pressure
 After a short break and company presentation, the results for the Group Fly rounds were announced.
 
 
-###Face to Face Interviews
+### Face to Face Interviews
 
 In each of the interviews, the first question is to introduce yourself. My answer started from what I'm currently pursuing and where I hail from. Then I talked about my school life and how I developed my passion for Technology. I cleverly slipped a few of my major achievements while narrating :p<br>
 
