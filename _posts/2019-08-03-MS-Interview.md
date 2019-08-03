@@ -147,6 +147,7 @@ Also to my seniors who helped me and clarified my doubts
 Lastly nothing would have been possible without my parents and my brother. My brother has been the evergreen source of inspiration and no words can express how grateful I am for my parents.
 
 ---------------------------------------
+Eight of us finally made it through. We will be given an opportunity to intern at Microsft Development Center next Summers and maybe more :D
 
 This is my first blog entry :D<br><br>
 *More Queries? Feel free to contact*
