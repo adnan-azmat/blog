@@ -123,7 +123,7 @@ After which I was allowed to go.
 
 **Qs to other students:**
 
-1. Shortest Path in Directed Cyclic Graph
+1. Shortest Path in Directed Acyclic Graph
 2. A variation of the N-Queens problem
 
 ---------------------------------------
